@@ -1,3 +1,4 @@
+/*----------------------------images-------------------------*/
 #menu a{
 	color: #fff;
 	font-size: 1.6em;
@@ -14,7 +15,11 @@
 .image-holder{
 	margin-top: 10%;
 }
+.image-holder img{
+	text-align: center;
+}
 p.title{
+	font-family: 'Roboto', sans-serif;
 	color: #626262;
 	margin:1%;
 	font-size: 1.2em;
@@ -30,4 +35,37 @@ p.title{
 }
 .link a:hover{
 	color: #1C1C1C;
+}
+hr.style {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+/*----------------------------testimonial-------------------------*/
+.heading{
+	text-align: center;
+	color: #626262;
+	margin: 0;
+}
+h3{
+	font-family: 'Raleway', sans-serif;
+}
+.by-name{
+	font-family: 'Lora', serif;
+	color: #666666;
+	font-weight: 150;
+	text-align: right;
+	font-style: italic;
+}
+
+/*----------------------------gallery-------------------------*/
+.img-tag {
+	margin: 1.5%;
+	font-size: 1.2em;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: 'Roboto', sans-serif;
+}
+.img-tag a{
+	color: #626262;
 }
