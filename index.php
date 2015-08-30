@@ -14,18 +14,47 @@
             </div>
         </div>
  <!------End Slider ------------>
-    <div class="container columns">
+    <div class="container">
         <div class="col-sm-3">
-             <p>3Dream Room Planning</p>
+            <div class="image-holder">
+                <img src="images/pic6.jpg">
+            </div><!--end image-holder-->
+             <p class="title">3Dream Room Planning</p>
+             <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="link">
+                <a href="#">Read More...</a>
+            </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="image-holder">
+                <img src="images/pic6.jpg">
+            </div><!--end image-holder-->
+            <p class="title">3Dream Room Planning</p>
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="link">
+                <a href="#">Read More...</a>
+            </div>
         </div>
         <div class="col-sm-3">
-            
+            <div class="image-holder">
+                <img src="images/pic6.jpg">
+            </div><!--end image-holder-->
+            <p class="title">3Dream Room Planning</p>
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="link">
+                <a href="#">Read More...</a>
+            </div>       
         </div>
         <div class="col-sm-3">
-            
-        </div>
-        <div class="col-sm-3">
-            
+            <div class="image-holder">
+                <img src="images/pic6.jpg">
+            </div><!--end image-holder-->
+            <p class="title">3Dream Room Planning</p>
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="link">
+                <a href="#">Read More...</a>
+            </div>
         </div>
     </div>
 <?php
