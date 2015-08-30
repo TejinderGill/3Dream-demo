@@ -11,3 +11,23 @@
 #my-navbar{
 	background-color: #ABE560;
 }
+.image-holder{
+	margin-top: 10%;
+}
+p.title{
+	color: #626262;
+	margin:1%;
+	font-size: 1.2em;
+	text-align: center;
+	text-transform: uppercase;
+}
+.details{
+	color: #666666;
+	text-align: justify;
+}
+.link a{
+	color: #ABE560;
+}
+.link a:hover{
+	color: #1C1C1C;
+}
