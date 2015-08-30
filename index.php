@@ -56,6 +56,77 @@
                 <a href="#">Read More...</a>
             </div>
         </div>
+    </div><!--end container-->
+    <hr class="style">
+
+
+    <div class="container">
+        <div class="heading">
+            <h3>WTestimonial statement</h3>
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>       
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>       
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>
+        </div>
+        <div class="col-md-4">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor velit, dictum et varius id, elementum luctus nibh. t dolor velit, dictum et varius id, elementum luctus nibh.</p>
+            <div class="by-name"><p>Gail Allen-Cyr<br/>Interior Designer</p></div>
+        </div>
+    </div>
+    <hr class="style">
+
+    <div class="container">
+        <div class="heading">
+            <h3>Gallery</h3>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
+        <div class="col-md-3">
+            <img src="images/pic9.jpg">
+            <div class="img-tag"><a href="#">Living Room</a></div>
+        </div>
     </div>
 <?php
     include('footer.php');
