@@ -1,0 +1,13 @@
+#menu a{
+	color: #fff;
+	font-size: 1.6em;
+}
+#menu a:hover{
+	color: #1C1C1C;
+}
+.navbar-header{
+	/*background-color: #ABE560;*/
+}
+#my-navbar{
+	background-color: #ABE560;
+}
