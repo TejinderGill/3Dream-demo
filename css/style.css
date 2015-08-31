@@ -16,7 +16,7 @@
 	margin-top: 10%;
 }
 .image-holder img{
-	text-align: center;
+
 }
 p.title{
 	font-family: 'Roboto', sans-serif;
@@ -69,3 +69,40 @@ h3{
 .img-tag a{
 	color: #626262;
 }
+/*----------------------------footer-------------------------*/
+.footer{
+	height: 30%;
+	margin-top: 3%;
+	background-color: #AAAAAA;
+}
+.lines{
+	padding-top: 1%;
+}
+.lines p{
+	color: #444444;
+	padding: 1%;
+}
+ul.list{
+	list-style-type: none;
+
+}
+.list ul li{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
