@@ -1,52 +1,6 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>3Dream</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-</head>
-<body>
-	
-<div class="header-about">	
-	<div class="header-top">
-		 <div class="wrap"> 
-		 <div class="top-nav">
-					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li class="active"><a href="gallery.html">Gallery</a></li>
-						<li><a href="services.html">Products & Sevices</a></li>
-						<li><a href="support.html">Support</a></li>
-						<!-- <li><a href="blog.html">Blog</a></li> -->
-						<li><a href="contact.html">Contact Us</a></li>
-					</ul>
-				</div>
-		  <div class="clear"></div> 
-	   </div>
-    </div>	
-	<div class="header-bottom">
-		<div class="wrap">
-				<div class="logo">
-					<a href="index.html"><img src="images/logo.png" alt=""></a>
-				</div>
-				<div class="header-right">
-					<ul class="follow_icon">
-						<li><a href="#"><img src="images/fb.png" alt=""></a></li>
-						<li><a href="#"><img src="images/rss.png" alt=""></a></li>
-						<li><a href="#"><img src="images/tw.png" alt=""></a></li>
-						<li><a href="#"><img src="images/g+.png" alt=""></a></li>
-					</ul>
-				</div>
-			  <div class="clear"></div> 
-			  <div class="search_box">
-				<form>
-				   <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}"><input type="submit" value="">
-			    </form>
-			</div>
-	    </div>
-    </div>
-</div><!--end header-about-->
+<?php
+    include('header.php');
+?>
      <div class="content-top">
 			<div class="wrap">
 				<div class="section group">
@@ -114,12 +68,6 @@
 					<div class="clear"></div> 			
 		        </div>
           </div><!--end content-middle-->
-<div class="footer-bottom">
- 	<div class="wrap">
- 		<div class="copy">
-			<p> © 2014 All rights Reserved | Design by <a href="http://3dream.net">3Dream</a></p>
-		</div>
- 	</div>
- </div>
-</body>
-</html>            
+<?php
+    include('footer.php');
+?>
