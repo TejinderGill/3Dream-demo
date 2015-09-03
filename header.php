@@ -56,11 +56,11 @@
                 </div><!--end navbar-header-->
                 <div class="collapse navbar-collapse navbar-right" id="navbar-collapse">
                     <ul class="nav navbar-nav" id="menu">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="services.html">Products & Sevices</a></li>
-                        <li><a href="support.html">Support</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="services.php">Products & Sevices</a></li>
+                        <li><a href="support.php">Support</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div><!--end container-->
