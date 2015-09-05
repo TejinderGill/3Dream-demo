@@ -13,7 +13,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css"/>
- <!--    <link rel="stylesheet" href="css/style1.css"/> -->
+    <!--<link rel="stylesheet" href="css/style1.css"/> -->
     <link rel="stylesheet" href="css/carousal.css"/>
     <link rel="stylesheet" href="css/reset.css"/>
 
